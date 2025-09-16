@@ -53,7 +53,7 @@ I'm a passionate and curious **Web Developer** with a love for building things t
 Automated stats and dynamic content can make your profile feel alive.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jun-ishibashi&show_icons=true&theme=vue-dark" alt="Your GitHub Stats" />
     <img src="https://github-profile-trophy.vercel.app/?username=jun-ishibashi" alt="GitHub Trophies" />
 </div>
 
