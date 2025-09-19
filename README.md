@@ -6,7 +6,7 @@
 
 I'm a passionate and curious **Web Developer** with a love for building things that live on the internet. I specialize in **React.js, TypeScript, Laravel, PHP** and am always exploring new technologies to solve challenging problems. When I'm not coding, you can find me **surfing**.
 
--   💻 I’m currently working on **[Name of a personal project or a cool feature at work]**.
+<!-- -   💻 I’m currently working on **[Name of a personal project or a cool feature at work]**. -->
 -   🌱 I’m currently learning **Flutter, STUDIO, Web design**.
 -   👯 I’m looking to collaborate on **frontend-related projects**.
 -   💬 Ask me about **React.js and TypeScript**.
